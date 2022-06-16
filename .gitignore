@@ -1,0 +1,10 @@
+Debug
+obj
+bin
+PublishProfiles
+.vs
+*.csproj.user
+*.pubxml
+/5.FrontGroundService/LeBo.Parking.XZManage/uploadfiles/tempfile
+.suo
+.dtbcache.v2
